@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\bin\Debug\net7.0\DistinctStudentAccessCounter.exe
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\bin\Debug\net7.0\DistinctStudentAccessCounter.deps.json
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\bin\Debug\net7.0\DistinctStudentAccessCounter.runtimeconfig.json
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\bin\Debug\net7.0\DistinctStudentAccessCounter.dll
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\bin\Debug\net7.0\DistinctStudentAccessCounter.pdb
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.AssemblyInfo.cs
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.dll
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\refint\DistinctStudentAccessCounter.dll
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.pdb
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\DistinctStudentAccessCounter.genruntimeconfig.cache
+C:\codigos\projetos C#\DistinctStudentAccessCounter\DistinctStudentAccessCounter\obj\Debug\net7.0\ref\DistinctStudentAccessCounter.dll
